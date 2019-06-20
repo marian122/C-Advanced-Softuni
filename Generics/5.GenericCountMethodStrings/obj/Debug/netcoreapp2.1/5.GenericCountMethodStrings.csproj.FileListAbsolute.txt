@@ -1,0 +1,10 @@
+C:\Users\malek\source\repos\Generics\5.GenericCountMethodStrings\bin\Debug\netcoreapp2.1\5.GenericCountMethodStrings.deps.json
+C:\Users\malek\source\repos\Generics\5.GenericCountMethodStrings\bin\Debug\netcoreapp2.1\5.GenericCountMethodStrings.runtimeconfig.json
+C:\Users\malek\source\repos\Generics\5.GenericCountMethodStrings\bin\Debug\netcoreapp2.1\5.GenericCountMethodStrings.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Generics\5.GenericCountMethodStrings\bin\Debug\netcoreapp2.1\5.GenericCountMethodStrings.dll
+C:\Users\malek\source\repos\Generics\5.GenericCountMethodStrings\bin\Debug\netcoreapp2.1\5.GenericCountMethodStrings.pdb
+C:\Users\malek\source\repos\Generics\5.GenericCountMethodStrings\obj\Debug\netcoreapp2.1\5.GenericCountMethodStrings.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Generics\5.GenericCountMethodStrings\obj\Debug\netcoreapp2.1\5.GenericCountMethodStrings.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Generics\5.GenericCountMethodStrings\obj\Debug\netcoreapp2.1\5.GenericCountMethodStrings.AssemblyInfo.cs
+C:\Users\malek\source\repos\Generics\5.GenericCountMethodStrings\obj\Debug\netcoreapp2.1\5.GenericCountMethodStrings.dll
+C:\Users\malek\source\repos\Generics\5.GenericCountMethodStrings\obj\Debug\netcoreapp2.1\5.GenericCountMethodStrings.pdb

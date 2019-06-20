@@ -1,0 +1,11 @@
+C:\Users\malek\source\repos\Stack and Queries\ReverseStrings\bin\Debug\netcoreapp2.1\ReverseStrings.deps.json
+C:\Users\malek\source\repos\Stack and Queries\ReverseStrings\bin\Debug\netcoreapp2.1\ReverseStrings.runtimeconfig.json
+C:\Users\malek\source\repos\Stack and Queries\ReverseStrings\bin\Debug\netcoreapp2.1\ReverseStrings.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Stack and Queries\ReverseStrings\bin\Debug\netcoreapp2.1\ReverseStrings.dll
+C:\Users\malek\source\repos\Stack and Queries\ReverseStrings\bin\Debug\netcoreapp2.1\ReverseStrings.pdb
+C:\Users\malek\source\repos\Stack and Queries\ReverseStrings\obj\Debug\netcoreapp2.1\ReverseStrings.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\Stack and Queries\ReverseStrings\obj\Debug\netcoreapp2.1\ReverseStrings.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Stack and Queries\ReverseStrings\obj\Debug\netcoreapp2.1\ReverseStrings.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Stack and Queries\ReverseStrings\obj\Debug\netcoreapp2.1\ReverseStrings.AssemblyInfo.cs
+C:\Users\malek\source\repos\Stack and Queries\ReverseStrings\obj\Debug\netcoreapp2.1\ReverseStrings.dll
+C:\Users\malek\source\repos\Stack and Queries\ReverseStrings\obj\Debug\netcoreapp2.1\ReverseStrings.pdb

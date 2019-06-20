@@ -1,0 +1,21 @@
+C:\Users\malek\source\repos\FinalExam\P02\bin\Debug\netcoreapp2.1\P02.deps.json
+C:\Users\malek\source\repos\FinalExam\P02\bin\Debug\netcoreapp2.1\P02.runtimeconfig.json
+C:\Users\malek\source\repos\FinalExam\P02\bin\Debug\netcoreapp2.1\P02.runtimeconfig.dev.json
+C:\Users\malek\source\repos\FinalExam\P02\bin\Debug\netcoreapp2.1\P02.dll
+C:\Users\malek\source\repos\FinalExam\P02\bin\Debug\netcoreapp2.1\P02.pdb
+C:\Users\malek\source\repos\FinalExam\P02\obj\Debug\netcoreapp2.1\P02.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\FinalExam\P02\obj\Debug\netcoreapp2.1\P02.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\FinalExam\P02\obj\Debug\netcoreapp2.1\P02.AssemblyInfo.cs
+C:\Users\malek\source\repos\FinalExam\P02\obj\Debug\netcoreapp2.1\P02.dll
+C:\Users\malek\source\repos\FinalExam\P02\obj\Debug\netcoreapp2.1\P02.pdb
+C:\Users\malek\source\repos\C# Advanced\FinalExam\P02\bin\Debug\netcoreapp2.1\P02.deps.json
+C:\Users\malek\source\repos\C# Advanced\FinalExam\P02\bin\Debug\netcoreapp2.1\P02.runtimeconfig.json
+C:\Users\malek\source\repos\C# Advanced\FinalExam\P02\bin\Debug\netcoreapp2.1\P02.runtimeconfig.dev.json
+C:\Users\malek\source\repos\C# Advanced\FinalExam\P02\bin\Debug\netcoreapp2.1\P02.dll
+C:\Users\malek\source\repos\C# Advanced\FinalExam\P02\bin\Debug\netcoreapp2.1\P02.pdb
+C:\Users\malek\source\repos\C# Advanced\FinalExam\P02\obj\Debug\netcoreapp2.1\P02.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\C# Advanced\FinalExam\P02\obj\Debug\netcoreapp2.1\P02.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\C# Advanced\FinalExam\P02\obj\Debug\netcoreapp2.1\P02.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\C# Advanced\FinalExam\P02\obj\Debug\netcoreapp2.1\P02.AssemblyInfo.cs
+C:\Users\malek\source\repos\C# Advanced\FinalExam\P02\obj\Debug\netcoreapp2.1\P02.dll
+C:\Users\malek\source\repos\C# Advanced\FinalExam\P02\obj\Debug\netcoreapp2.1\P02.pdb

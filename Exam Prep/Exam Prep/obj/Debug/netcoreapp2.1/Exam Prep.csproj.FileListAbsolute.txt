@@ -1,0 +1,22 @@
+C:\Users\malek\source\repos\Exam Prep\Exam Prep\bin\Debug\netcoreapp2.1\Exam Prep.deps.json
+C:\Users\malek\source\repos\Exam Prep\Exam Prep\bin\Debug\netcoreapp2.1\Exam Prep.runtimeconfig.json
+C:\Users\malek\source\repos\Exam Prep\Exam Prep\bin\Debug\netcoreapp2.1\Exam Prep.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Exam Prep\Exam Prep\bin\Debug\netcoreapp2.1\Exam Prep.dll
+C:\Users\malek\source\repos\Exam Prep\Exam Prep\bin\Debug\netcoreapp2.1\Exam Prep.pdb
+C:\Users\malek\source\repos\Exam Prep\Exam Prep\obj\Debug\netcoreapp2.1\Exam Prep.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\Exam Prep\Exam Prep\obj\Debug\netcoreapp2.1\Exam Prep.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Exam Prep\Exam Prep\obj\Debug\netcoreapp2.1\Exam Prep.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Exam Prep\Exam Prep\obj\Debug\netcoreapp2.1\Exam Prep.AssemblyInfo.cs
+C:\Users\malek\source\repos\Exam Prep\Exam Prep\obj\Debug\netcoreapp2.1\Exam Prep.dll
+C:\Users\malek\source\repos\Exam Prep\Exam Prep\obj\Debug\netcoreapp2.1\Exam Prep.pdb
+C:\Users\malek\source\repos\C# Advanced\Exam Prep\Exam Prep\bin\Debug\netcoreapp2.1\Exam Prep.deps.json
+C:\Users\malek\source\repos\C# Advanced\Exam Prep\Exam Prep\bin\Debug\netcoreapp2.1\Exam Prep.runtimeconfig.json
+C:\Users\malek\source\repos\C# Advanced\Exam Prep\Exam Prep\bin\Debug\netcoreapp2.1\Exam Prep.runtimeconfig.dev.json
+C:\Users\malek\source\repos\C# Advanced\Exam Prep\Exam Prep\bin\Debug\netcoreapp2.1\Exam Prep.dll
+C:\Users\malek\source\repos\C# Advanced\Exam Prep\Exam Prep\bin\Debug\netcoreapp2.1\Exam Prep.pdb
+C:\Users\malek\source\repos\C# Advanced\Exam Prep\Exam Prep\obj\Debug\netcoreapp2.1\Exam Prep.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\C# Advanced\Exam Prep\Exam Prep\obj\Debug\netcoreapp2.1\Exam Prep.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\C# Advanced\Exam Prep\Exam Prep\obj\Debug\netcoreapp2.1\Exam Prep.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\C# Advanced\Exam Prep\Exam Prep\obj\Debug\netcoreapp2.1\Exam Prep.AssemblyInfo.cs
+C:\Users\malek\source\repos\C# Advanced\Exam Prep\Exam Prep\obj\Debug\netcoreapp2.1\Exam Prep.dll
+C:\Users\malek\source\repos\C# Advanced\Exam Prep\Exam Prep\obj\Debug\netcoreapp2.1\Exam Prep.pdb

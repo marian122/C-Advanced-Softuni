@@ -1,0 +1,11 @@
+C:\Users\malek\source\repos\Defining Classes\Problem 2. Creating Constructors\bin\Debug\netcoreapp2.1\Problem 2. Creating Constructors.deps.json
+C:\Users\malek\source\repos\Defining Classes\Problem 2. Creating Constructors\bin\Debug\netcoreapp2.1\Problem 2. Creating Constructors.runtimeconfig.json
+C:\Users\malek\source\repos\Defining Classes\Problem 2. Creating Constructors\bin\Debug\netcoreapp2.1\Problem 2. Creating Constructors.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Defining Classes\Problem 2. Creating Constructors\bin\Debug\netcoreapp2.1\Problem 2. Creating Constructors.dll
+C:\Users\malek\source\repos\Defining Classes\Problem 2. Creating Constructors\bin\Debug\netcoreapp2.1\Problem 2. Creating Constructors.pdb
+C:\Users\malek\source\repos\Defining Classes\Problem 2. Creating Constructors\obj\Debug\netcoreapp2.1\Problem 2. Creating Constructors.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Defining Classes\Problem 2. Creating Constructors\obj\Debug\netcoreapp2.1\Problem 2. Creating Constructors.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Defining Classes\Problem 2. Creating Constructors\obj\Debug\netcoreapp2.1\Problem 2. Creating Constructors.AssemblyInfo.cs
+C:\Users\malek\source\repos\Defining Classes\Problem 2. Creating Constructors\obj\Debug\netcoreapp2.1\Problem 2. Creating Constructors.dll
+C:\Users\malek\source\repos\Defining Classes\Problem 2. Creating Constructors\obj\Debug\netcoreapp2.1\Problem 2. Creating Constructors.pdb
+C:\Users\malek\source\repos\Defining Classes\Problem 2. Creating Constructors\obj\Debug\netcoreapp2.1\Problem 2. Creating Constructors.csprojAssemblyReference.cache

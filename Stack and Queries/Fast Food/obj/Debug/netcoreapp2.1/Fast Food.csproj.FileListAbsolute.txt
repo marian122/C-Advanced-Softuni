@@ -1,0 +1,10 @@
+C:\Users\malek\source\repos\Stack and Queries\Fast Food\bin\Debug\netcoreapp2.1\Fast Food.deps.json
+C:\Users\malek\source\repos\Stack and Queries\Fast Food\bin\Debug\netcoreapp2.1\Fast Food.runtimeconfig.json
+C:\Users\malek\source\repos\Stack and Queries\Fast Food\bin\Debug\netcoreapp2.1\Fast Food.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Stack and Queries\Fast Food\bin\Debug\netcoreapp2.1\Fast Food.dll
+C:\Users\malek\source\repos\Stack and Queries\Fast Food\bin\Debug\netcoreapp2.1\Fast Food.pdb
+C:\Users\malek\source\repos\Stack and Queries\Fast Food\obj\Debug\netcoreapp2.1\Fast Food.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Stack and Queries\Fast Food\obj\Debug\netcoreapp2.1\Fast Food.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Stack and Queries\Fast Food\obj\Debug\netcoreapp2.1\Fast Food.AssemblyInfo.cs
+C:\Users\malek\source\repos\Stack and Queries\Fast Food\obj\Debug\netcoreapp2.1\Fast Food.dll
+C:\Users\malek\source\repos\Stack and Queries\Fast Food\obj\Debug\netcoreapp2.1\Fast Food.pdb

@@ -1,0 +1,11 @@
+C:\Users\malek\source\repos\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\bin\Debug\netcoreapp2.1\Sets and Dictionaries Advanced.deps.json
+C:\Users\malek\source\repos\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\bin\Debug\netcoreapp2.1\Sets and Dictionaries Advanced.runtimeconfig.json
+C:\Users\malek\source\repos\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\bin\Debug\netcoreapp2.1\Sets and Dictionaries Advanced.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\bin\Debug\netcoreapp2.1\Sets and Dictionaries Advanced.dll
+C:\Users\malek\source\repos\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\bin\Debug\netcoreapp2.1\Sets and Dictionaries Advanced.pdb
+C:\Users\malek\source\repos\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\obj\Debug\netcoreapp2.1\Sets and Dictionaries Advanced.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\obj\Debug\netcoreapp2.1\Sets and Dictionaries Advanced.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\obj\Debug\netcoreapp2.1\Sets and Dictionaries Advanced.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\obj\Debug\netcoreapp2.1\Sets and Dictionaries Advanced.AssemblyInfo.cs
+C:\Users\malek\source\repos\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\obj\Debug\netcoreapp2.1\Sets and Dictionaries Advanced.dll
+C:\Users\malek\source\repos\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\obj\Debug\netcoreapp2.1\Sets and Dictionaries Advanced.pdb

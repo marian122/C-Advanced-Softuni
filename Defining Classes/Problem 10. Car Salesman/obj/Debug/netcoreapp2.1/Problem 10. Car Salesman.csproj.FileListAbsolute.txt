@@ -1,0 +1,11 @@
+C:\Users\malek\source\repos\Defining Classes\Problem 10. Car Salesman\bin\Debug\netcoreapp2.1\Problem 10. Car Salesman.deps.json
+C:\Users\malek\source\repos\Defining Classes\Problem 10. Car Salesman\bin\Debug\netcoreapp2.1\Problem 10. Car Salesman.runtimeconfig.json
+C:\Users\malek\source\repos\Defining Classes\Problem 10. Car Salesman\bin\Debug\netcoreapp2.1\Problem 10. Car Salesman.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Defining Classes\Problem 10. Car Salesman\bin\Debug\netcoreapp2.1\Problem 10. Car Salesman.dll
+C:\Users\malek\source\repos\Defining Classes\Problem 10. Car Salesman\bin\Debug\netcoreapp2.1\Problem 10. Car Salesman.pdb
+C:\Users\malek\source\repos\Defining Classes\Problem 10. Car Salesman\obj\Debug\netcoreapp2.1\Problem 10. Car Salesman.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\Defining Classes\Problem 10. Car Salesman\obj\Debug\netcoreapp2.1\Problem 10. Car Salesman.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Defining Classes\Problem 10. Car Salesman\obj\Debug\netcoreapp2.1\Problem 10. Car Salesman.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Defining Classes\Problem 10. Car Salesman\obj\Debug\netcoreapp2.1\Problem 10. Car Salesman.AssemblyInfo.cs
+C:\Users\malek\source\repos\Defining Classes\Problem 10. Car Salesman\obj\Debug\netcoreapp2.1\Problem 10. Car Salesman.dll
+C:\Users\malek\source\repos\Defining Classes\Problem 10. Car Salesman\obj\Debug\netcoreapp2.1\Problem 10. Car Salesman.pdb

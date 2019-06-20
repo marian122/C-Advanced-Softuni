@@ -1,0 +1,11 @@
+C:\Users\malek\source\repos\Stack and Queries\Auto Repair Service\bin\Debug\netcoreapp2.1\Auto Repair Service.deps.json
+C:\Users\malek\source\repos\Stack and Queries\Auto Repair Service\bin\Debug\netcoreapp2.1\Auto Repair Service.runtimeconfig.json
+C:\Users\malek\source\repos\Stack and Queries\Auto Repair Service\bin\Debug\netcoreapp2.1\Auto Repair Service.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Stack and Queries\Auto Repair Service\bin\Debug\netcoreapp2.1\Auto Repair Service.dll
+C:\Users\malek\source\repos\Stack and Queries\Auto Repair Service\bin\Debug\netcoreapp2.1\Auto Repair Service.pdb
+C:\Users\malek\source\repos\Stack and Queries\Auto Repair Service\obj\Debug\netcoreapp2.1\Auto Repair Service.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Stack and Queries\Auto Repair Service\obj\Debug\netcoreapp2.1\Auto Repair Service.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Stack and Queries\Auto Repair Service\obj\Debug\netcoreapp2.1\Auto Repair Service.AssemblyInfo.cs
+C:\Users\malek\source\repos\Stack and Queries\Auto Repair Service\obj\Debug\netcoreapp2.1\Auto Repair Service.dll
+C:\Users\malek\source\repos\Stack and Queries\Auto Repair Service\obj\Debug\netcoreapp2.1\Auto Repair Service.pdb
+C:\Users\malek\source\repos\Stack and Queries\Auto Repair Service\obj\Debug\netcoreapp2.1\Auto Repair Service.csprojAssemblyReference.cache

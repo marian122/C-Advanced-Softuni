@@ -1,0 +1,10 @@
+C:\Users\malek\source\repos\Defining Classes\Problem 4. Opinion Poll\bin\Debug\netcoreapp2.1\Problem 4. Opinion Poll.deps.json
+C:\Users\malek\source\repos\Defining Classes\Problem 4. Opinion Poll\bin\Debug\netcoreapp2.1\Problem 4. Opinion Poll.runtimeconfig.json
+C:\Users\malek\source\repos\Defining Classes\Problem 4. Opinion Poll\bin\Debug\netcoreapp2.1\Problem 4. Opinion Poll.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Defining Classes\Problem 4. Opinion Poll\bin\Debug\netcoreapp2.1\Problem 4. Opinion Poll.dll
+C:\Users\malek\source\repos\Defining Classes\Problem 4. Opinion Poll\bin\Debug\netcoreapp2.1\Problem 4. Opinion Poll.pdb
+C:\Users\malek\source\repos\Defining Classes\Problem 4. Opinion Poll\obj\Debug\netcoreapp2.1\Problem 4. Opinion Poll.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Defining Classes\Problem 4. Opinion Poll\obj\Debug\netcoreapp2.1\Problem 4. Opinion Poll.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Defining Classes\Problem 4. Opinion Poll\obj\Debug\netcoreapp2.1\Problem 4. Opinion Poll.AssemblyInfo.cs
+C:\Users\malek\source\repos\Defining Classes\Problem 4. Opinion Poll\obj\Debug\netcoreapp2.1\Problem 4. Opinion Poll.dll
+C:\Users\malek\source\repos\Defining Classes\Problem 4. Opinion Poll\obj\Debug\netcoreapp2.1\Problem 4. Opinion Poll.pdb

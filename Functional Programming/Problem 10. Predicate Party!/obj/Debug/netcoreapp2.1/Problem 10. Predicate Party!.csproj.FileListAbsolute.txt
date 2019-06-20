@@ -1,0 +1,11 @@
+C:\Users\malek\source\repos\Functional Programming\Problem 10. Predicate Party!\bin\Debug\netcoreapp2.1\Problem 10. Predicate Party!.deps.json
+C:\Users\malek\source\repos\Functional Programming\Problem 10. Predicate Party!\bin\Debug\netcoreapp2.1\Problem 10. Predicate Party!.runtimeconfig.json
+C:\Users\malek\source\repos\Functional Programming\Problem 10. Predicate Party!\bin\Debug\netcoreapp2.1\Problem 10. Predicate Party!.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Functional Programming\Problem 10. Predicate Party!\bin\Debug\netcoreapp2.1\Problem 10. Predicate Party!.dll
+C:\Users\malek\source\repos\Functional Programming\Problem 10. Predicate Party!\bin\Debug\netcoreapp2.1\Problem 10. Predicate Party!.pdb
+C:\Users\malek\source\repos\Functional Programming\Problem 10. Predicate Party!\obj\Debug\netcoreapp2.1\Problem 10. Predicate Party!.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\Functional Programming\Problem 10. Predicate Party!\obj\Debug\netcoreapp2.1\Problem 10. Predicate Party!.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Functional Programming\Problem 10. Predicate Party!\obj\Debug\netcoreapp2.1\Problem 10. Predicate Party!.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Functional Programming\Problem 10. Predicate Party!\obj\Debug\netcoreapp2.1\Problem 10. Predicate Party!.AssemblyInfo.cs
+C:\Users\malek\source\repos\Functional Programming\Problem 10. Predicate Party!\obj\Debug\netcoreapp2.1\Problem 10. Predicate Party!.dll
+C:\Users\malek\source\repos\Functional Programming\Problem 10. Predicate Party!\obj\Debug\netcoreapp2.1\Problem 10. Predicate Party!.pdb

@@ -1,0 +1,10 @@
+C:\Users\malek\source\repos\Stack and Queries\Basic Queue Operations\bin\Debug\netcoreapp2.1\Basic Queue Operations.deps.json
+C:\Users\malek\source\repos\Stack and Queries\Basic Queue Operations\bin\Debug\netcoreapp2.1\Basic Queue Operations.runtimeconfig.json
+C:\Users\malek\source\repos\Stack and Queries\Basic Queue Operations\bin\Debug\netcoreapp2.1\Basic Queue Operations.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Stack and Queries\Basic Queue Operations\bin\Debug\netcoreapp2.1\Basic Queue Operations.dll
+C:\Users\malek\source\repos\Stack and Queries\Basic Queue Operations\bin\Debug\netcoreapp2.1\Basic Queue Operations.pdb
+C:\Users\malek\source\repos\Stack and Queries\Basic Queue Operations\obj\Debug\netcoreapp2.1\Basic Queue Operations.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Stack and Queries\Basic Queue Operations\obj\Debug\netcoreapp2.1\Basic Queue Operations.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Stack and Queries\Basic Queue Operations\obj\Debug\netcoreapp2.1\Basic Queue Operations.AssemblyInfo.cs
+C:\Users\malek\source\repos\Stack and Queries\Basic Queue Operations\obj\Debug\netcoreapp2.1\Basic Queue Operations.dll
+C:\Users\malek\source\repos\Stack and Queries\Basic Queue Operations\obj\Debug\netcoreapp2.1\Basic Queue Operations.pdb

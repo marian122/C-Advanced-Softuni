@@ -1,0 +1,10 @@
+C:\Users\malek\source\repos\Multidimensional Arrays\Symbol in Matrix\bin\Debug\netcoreapp2.1\Symbol in Matrix.deps.json
+C:\Users\malek\source\repos\Multidimensional Arrays\Symbol in Matrix\bin\Debug\netcoreapp2.1\Symbol in Matrix.runtimeconfig.json
+C:\Users\malek\source\repos\Multidimensional Arrays\Symbol in Matrix\bin\Debug\netcoreapp2.1\Symbol in Matrix.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Multidimensional Arrays\Symbol in Matrix\bin\Debug\netcoreapp2.1\Symbol in Matrix.dll
+C:\Users\malek\source\repos\Multidimensional Arrays\Symbol in Matrix\bin\Debug\netcoreapp2.1\Symbol in Matrix.pdb
+C:\Users\malek\source\repos\Multidimensional Arrays\Symbol in Matrix\obj\Debug\netcoreapp2.1\Symbol in Matrix.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Multidimensional Arrays\Symbol in Matrix\obj\Debug\netcoreapp2.1\Symbol in Matrix.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Multidimensional Arrays\Symbol in Matrix\obj\Debug\netcoreapp2.1\Symbol in Matrix.AssemblyInfo.cs
+C:\Users\malek\source\repos\Multidimensional Arrays\Symbol in Matrix\obj\Debug\netcoreapp2.1\Symbol in Matrix.dll
+C:\Users\malek\source\repos\Multidimensional Arrays\Symbol in Matrix\obj\Debug\netcoreapp2.1\Symbol in Matrix.pdb

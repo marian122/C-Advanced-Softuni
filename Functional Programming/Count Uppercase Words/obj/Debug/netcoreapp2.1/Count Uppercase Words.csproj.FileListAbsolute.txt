@@ -1,0 +1,10 @@
+C:\Users\malek\source\repos\Functional Programming\Count Uppercase Words\bin\Debug\netcoreapp2.1\Count Uppercase Words.deps.json
+C:\Users\malek\source\repos\Functional Programming\Count Uppercase Words\bin\Debug\netcoreapp2.1\Count Uppercase Words.runtimeconfig.json
+C:\Users\malek\source\repos\Functional Programming\Count Uppercase Words\bin\Debug\netcoreapp2.1\Count Uppercase Words.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Functional Programming\Count Uppercase Words\bin\Debug\netcoreapp2.1\Count Uppercase Words.dll
+C:\Users\malek\source\repos\Functional Programming\Count Uppercase Words\bin\Debug\netcoreapp2.1\Count Uppercase Words.pdb
+C:\Users\malek\source\repos\Functional Programming\Count Uppercase Words\obj\Debug\netcoreapp2.1\Count Uppercase Words.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Functional Programming\Count Uppercase Words\obj\Debug\netcoreapp2.1\Count Uppercase Words.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Functional Programming\Count Uppercase Words\obj\Debug\netcoreapp2.1\Count Uppercase Words.AssemblyInfo.cs
+C:\Users\malek\source\repos\Functional Programming\Count Uppercase Words\obj\Debug\netcoreapp2.1\Count Uppercase Words.dll
+C:\Users\malek\source\repos\Functional Programming\Count Uppercase Words\obj\Debug\netcoreapp2.1\Count Uppercase Words.pdb

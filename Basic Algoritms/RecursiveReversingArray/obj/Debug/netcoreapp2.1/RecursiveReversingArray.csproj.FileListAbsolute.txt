@@ -1,0 +1,11 @@
+C:\Users\malek\source\repos\Basic Algoritms\RecursiveReversingArray\bin\Debug\netcoreapp2.1\RecursiveReversingArray.deps.json
+C:\Users\malek\source\repos\Basic Algoritms\RecursiveReversingArray\bin\Debug\netcoreapp2.1\RecursiveReversingArray.runtimeconfig.json
+C:\Users\malek\source\repos\Basic Algoritms\RecursiveReversingArray\bin\Debug\netcoreapp2.1\RecursiveReversingArray.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Basic Algoritms\RecursiveReversingArray\bin\Debug\netcoreapp2.1\RecursiveReversingArray.dll
+C:\Users\malek\source\repos\Basic Algoritms\RecursiveReversingArray\bin\Debug\netcoreapp2.1\RecursiveReversingArray.pdb
+C:\Users\malek\source\repos\Basic Algoritms\RecursiveReversingArray\obj\Debug\netcoreapp2.1\RecursiveReversingArray.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\Basic Algoritms\RecursiveReversingArray\obj\Debug\netcoreapp2.1\RecursiveReversingArray.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Basic Algoritms\RecursiveReversingArray\obj\Debug\netcoreapp2.1\RecursiveReversingArray.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Basic Algoritms\RecursiveReversingArray\obj\Debug\netcoreapp2.1\RecursiveReversingArray.AssemblyInfo.cs
+C:\Users\malek\source\repos\Basic Algoritms\RecursiveReversingArray\obj\Debug\netcoreapp2.1\RecursiveReversingArray.dll
+C:\Users\malek\source\repos\Basic Algoritms\RecursiveReversingArray\obj\Debug\netcoreapp2.1\RecursiveReversingArray.pdb

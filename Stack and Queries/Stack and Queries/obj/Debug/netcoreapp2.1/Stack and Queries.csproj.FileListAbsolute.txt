@@ -1,0 +1,11 @@
+C:\Users\malek\source\repos\Stack and Queries\Stack and Queries\bin\Debug\netcoreapp2.1\Stack and Queries.deps.json
+C:\Users\malek\source\repos\Stack and Queries\Stack and Queries\bin\Debug\netcoreapp2.1\Stack and Queries.runtimeconfig.json
+C:\Users\malek\source\repos\Stack and Queries\Stack and Queries\bin\Debug\netcoreapp2.1\Stack and Queries.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Stack and Queries\Stack and Queries\bin\Debug\netcoreapp2.1\Stack and Queries.dll
+C:\Users\malek\source\repos\Stack and Queries\Stack and Queries\bin\Debug\netcoreapp2.1\Stack and Queries.pdb
+C:\Users\malek\source\repos\Stack and Queries\Stack and Queries\obj\Debug\netcoreapp2.1\Stack and Queries.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\Stack and Queries\Stack and Queries\obj\Debug\netcoreapp2.1\Stack and Queries.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Stack and Queries\Stack and Queries\obj\Debug\netcoreapp2.1\Stack and Queries.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Stack and Queries\Stack and Queries\obj\Debug\netcoreapp2.1\Stack and Queries.AssemblyInfo.cs
+C:\Users\malek\source\repos\Stack and Queries\Stack and Queries\obj\Debug\netcoreapp2.1\Stack and Queries.dll
+C:\Users\malek\source\repos\Stack and Queries\Stack and Queries\obj\Debug\netcoreapp2.1\Stack and Queries.pdb

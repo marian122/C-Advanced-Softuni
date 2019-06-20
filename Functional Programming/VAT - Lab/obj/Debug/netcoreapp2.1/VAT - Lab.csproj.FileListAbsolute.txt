@@ -1,0 +1,10 @@
+C:\Users\malek\source\repos\Functional Programming\VAT - Lab\bin\Debug\netcoreapp2.1\VAT - Lab.deps.json
+C:\Users\malek\source\repos\Functional Programming\VAT - Lab\bin\Debug\netcoreapp2.1\VAT - Lab.runtimeconfig.json
+C:\Users\malek\source\repos\Functional Programming\VAT - Lab\bin\Debug\netcoreapp2.1\VAT - Lab.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Functional Programming\VAT - Lab\bin\Debug\netcoreapp2.1\VAT - Lab.dll
+C:\Users\malek\source\repos\Functional Programming\VAT - Lab\bin\Debug\netcoreapp2.1\VAT - Lab.pdb
+C:\Users\malek\source\repos\Functional Programming\VAT - Lab\obj\Debug\netcoreapp2.1\VAT - Lab.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Functional Programming\VAT - Lab\obj\Debug\netcoreapp2.1\VAT - Lab.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Functional Programming\VAT - Lab\obj\Debug\netcoreapp2.1\VAT - Lab.AssemblyInfo.cs
+C:\Users\malek\source\repos\Functional Programming\VAT - Lab\obj\Debug\netcoreapp2.1\VAT - Lab.dll
+C:\Users\malek\source\repos\Functional Programming\VAT - Lab\obj\Debug\netcoreapp2.1\VAT - Lab.pdb

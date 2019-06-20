@@ -1,0 +1,10 @@
+C:\Users\malek\source\repos\Defining Classes\Problem 09. Rectangle Intersection\bin\Debug\netcoreapp2.1\Problem 09. Rectangle Intersection.deps.json
+C:\Users\malek\source\repos\Defining Classes\Problem 09. Rectangle Intersection\bin\Debug\netcoreapp2.1\Problem 09. Rectangle Intersection.runtimeconfig.json
+C:\Users\malek\source\repos\Defining Classes\Problem 09. Rectangle Intersection\bin\Debug\netcoreapp2.1\Problem 09. Rectangle Intersection.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Defining Classes\Problem 09. Rectangle Intersection\bin\Debug\netcoreapp2.1\Problem 09. Rectangle Intersection.dll
+C:\Users\malek\source\repos\Defining Classes\Problem 09. Rectangle Intersection\bin\Debug\netcoreapp2.1\Problem 09. Rectangle Intersection.pdb
+C:\Users\malek\source\repos\Defining Classes\Problem 09. Rectangle Intersection\obj\Debug\netcoreapp2.1\Problem 09. Rectangle Intersection.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Defining Classes\Problem 09. Rectangle Intersection\obj\Debug\netcoreapp2.1\Problem 09. Rectangle Intersection.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Defining Classes\Problem 09. Rectangle Intersection\obj\Debug\netcoreapp2.1\Problem 09. Rectangle Intersection.AssemblyInfo.cs
+C:\Users\malek\source\repos\Defining Classes\Problem 09. Rectangle Intersection\obj\Debug\netcoreapp2.1\Problem 09. Rectangle Intersection.dll
+C:\Users\malek\source\repos\Defining Classes\Problem 09. Rectangle Intersection\obj\Debug\netcoreapp2.1\Problem 09. Rectangle Intersection.pdb

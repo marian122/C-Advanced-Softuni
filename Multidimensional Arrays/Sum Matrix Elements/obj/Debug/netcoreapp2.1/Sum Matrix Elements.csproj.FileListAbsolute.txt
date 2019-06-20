@@ -1,0 +1,11 @@
+C:\Users\malek\source\repos\Multidimensional Arrays\Sum Matrix Elements\bin\Debug\netcoreapp2.1\Sum Matrix Elements.deps.json
+C:\Users\malek\source\repos\Multidimensional Arrays\Sum Matrix Elements\bin\Debug\netcoreapp2.1\Sum Matrix Elements.runtimeconfig.json
+C:\Users\malek\source\repos\Multidimensional Arrays\Sum Matrix Elements\bin\Debug\netcoreapp2.1\Sum Matrix Elements.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Multidimensional Arrays\Sum Matrix Elements\bin\Debug\netcoreapp2.1\Sum Matrix Elements.dll
+C:\Users\malek\source\repos\Multidimensional Arrays\Sum Matrix Elements\bin\Debug\netcoreapp2.1\Sum Matrix Elements.pdb
+C:\Users\malek\source\repos\Multidimensional Arrays\Sum Matrix Elements\obj\Debug\netcoreapp2.1\Sum Matrix Elements.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Multidimensional Arrays\Sum Matrix Elements\obj\Debug\netcoreapp2.1\Sum Matrix Elements.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Multidimensional Arrays\Sum Matrix Elements\obj\Debug\netcoreapp2.1\Sum Matrix Elements.AssemblyInfo.cs
+C:\Users\malek\source\repos\Multidimensional Arrays\Sum Matrix Elements\obj\Debug\netcoreapp2.1\Sum Matrix Elements.dll
+C:\Users\malek\source\repos\Multidimensional Arrays\Sum Matrix Elements\obj\Debug\netcoreapp2.1\Sum Matrix Elements.pdb
+C:\Users\malek\source\repos\Multidimensional Arrays\Sum Matrix Elements\obj\Debug\netcoreapp2.1\Sum Matrix Elements.csprojAssemblyReference.cache

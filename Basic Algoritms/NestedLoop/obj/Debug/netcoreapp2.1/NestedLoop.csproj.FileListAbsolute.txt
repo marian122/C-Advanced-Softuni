@@ -1,0 +1,11 @@
+C:\Users\malek\source\repos\Basic Algoritms\NestedLoop\bin\Debug\netcoreapp2.1\NestedLoop.deps.json
+C:\Users\malek\source\repos\Basic Algoritms\NestedLoop\bin\Debug\netcoreapp2.1\NestedLoop.runtimeconfig.json
+C:\Users\malek\source\repos\Basic Algoritms\NestedLoop\bin\Debug\netcoreapp2.1\NestedLoop.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Basic Algoritms\NestedLoop\bin\Debug\netcoreapp2.1\NestedLoop.dll
+C:\Users\malek\source\repos\Basic Algoritms\NestedLoop\bin\Debug\netcoreapp2.1\NestedLoop.pdb
+C:\Users\malek\source\repos\Basic Algoritms\NestedLoop\obj\Debug\netcoreapp2.1\NestedLoop.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\Basic Algoritms\NestedLoop\obj\Debug\netcoreapp2.1\NestedLoop.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Basic Algoritms\NestedLoop\obj\Debug\netcoreapp2.1\NestedLoop.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Basic Algoritms\NestedLoop\obj\Debug\netcoreapp2.1\NestedLoop.AssemblyInfo.cs
+C:\Users\malek\source\repos\Basic Algoritms\NestedLoop\obj\Debug\netcoreapp2.1\NestedLoop.dll
+C:\Users\malek\source\repos\Basic Algoritms\NestedLoop\obj\Debug\netcoreapp2.1\NestedLoop.pdb

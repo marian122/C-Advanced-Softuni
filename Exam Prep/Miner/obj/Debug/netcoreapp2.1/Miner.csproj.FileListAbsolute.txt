@@ -1,0 +1,10 @@
+C:\Users\malek\source\repos\Exam Prep\Miner\bin\Debug\netcoreapp2.1\Miner.deps.json
+C:\Users\malek\source\repos\Exam Prep\Miner\bin\Debug\netcoreapp2.1\Miner.runtimeconfig.json
+C:\Users\malek\source\repos\Exam Prep\Miner\bin\Debug\netcoreapp2.1\Miner.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Exam Prep\Miner\bin\Debug\netcoreapp2.1\Miner.dll
+C:\Users\malek\source\repos\Exam Prep\Miner\bin\Debug\netcoreapp2.1\Miner.pdb
+C:\Users\malek\source\repos\Exam Prep\Miner\obj\Debug\netcoreapp2.1\Miner.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Exam Prep\Miner\obj\Debug\netcoreapp2.1\Miner.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Exam Prep\Miner\obj\Debug\netcoreapp2.1\Miner.AssemblyInfo.cs
+C:\Users\malek\source\repos\Exam Prep\Miner\obj\Debug\netcoreapp2.1\Miner.dll
+C:\Users\malek\source\repos\Exam Prep\Miner\obj\Debug\netcoreapp2.1\Miner.pdb

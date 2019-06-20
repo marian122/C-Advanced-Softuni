@@ -1,0 +1,10 @@
+C:\Users\malek\source\repos\Exam Prep\Ranking\bin\Debug\netcoreapp2.1\Ranking.deps.json
+C:\Users\malek\source\repos\Exam Prep\Ranking\bin\Debug\netcoreapp2.1\Ranking.runtimeconfig.json
+C:\Users\malek\source\repos\Exam Prep\Ranking\bin\Debug\netcoreapp2.1\Ranking.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Exam Prep\Ranking\bin\Debug\netcoreapp2.1\Ranking.dll
+C:\Users\malek\source\repos\Exam Prep\Ranking\bin\Debug\netcoreapp2.1\Ranking.pdb
+C:\Users\malek\source\repos\Exam Prep\Ranking\obj\Debug\netcoreapp2.1\Ranking.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Exam Prep\Ranking\obj\Debug\netcoreapp2.1\Ranking.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Exam Prep\Ranking\obj\Debug\netcoreapp2.1\Ranking.AssemblyInfo.cs
+C:\Users\malek\source\repos\Exam Prep\Ranking\obj\Debug\netcoreapp2.1\Ranking.dll
+C:\Users\malek\source\repos\Exam Prep\Ranking\obj\Debug\netcoreapp2.1\Ranking.pdb

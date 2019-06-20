@@ -1,0 +1,10 @@
+C:\Users\malek\source\repos\Functional Programming\Sort Even Numbers - Lab\bin\Debug\netcoreapp2.1\Sort Even Numbers - Lab.deps.json
+C:\Users\malek\source\repos\Functional Programming\Sort Even Numbers - Lab\bin\Debug\netcoreapp2.1\Sort Even Numbers - Lab.runtimeconfig.json
+C:\Users\malek\source\repos\Functional Programming\Sort Even Numbers - Lab\bin\Debug\netcoreapp2.1\Sort Even Numbers - Lab.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Functional Programming\Sort Even Numbers - Lab\bin\Debug\netcoreapp2.1\Sort Even Numbers - Lab.dll
+C:\Users\malek\source\repos\Functional Programming\Sort Even Numbers - Lab\bin\Debug\netcoreapp2.1\Sort Even Numbers - Lab.pdb
+C:\Users\malek\source\repos\Functional Programming\Sort Even Numbers - Lab\obj\Debug\netcoreapp2.1\Sort Even Numbers - Lab.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Functional Programming\Sort Even Numbers - Lab\obj\Debug\netcoreapp2.1\Sort Even Numbers - Lab.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Functional Programming\Sort Even Numbers - Lab\obj\Debug\netcoreapp2.1\Sort Even Numbers - Lab.AssemblyInfo.cs
+C:\Users\malek\source\repos\Functional Programming\Sort Even Numbers - Lab\obj\Debug\netcoreapp2.1\Sort Even Numbers - Lab.dll
+C:\Users\malek\source\repos\Functional Programming\Sort Even Numbers - Lab\obj\Debug\netcoreapp2.1\Sort Even Numbers - Lab.pdb

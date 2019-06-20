@@ -1,0 +1,10 @@
+C:\Users\malek\source\repos\Sets and Dictionaries Advanced\07. SoftUni Party\bin\Debug\netcoreapp2.1\07. SoftUni Party.deps.json
+C:\Users\malek\source\repos\Sets and Dictionaries Advanced\07. SoftUni Party\bin\Debug\netcoreapp2.1\07. SoftUni Party.runtimeconfig.json
+C:\Users\malek\source\repos\Sets and Dictionaries Advanced\07. SoftUni Party\bin\Debug\netcoreapp2.1\07. SoftUni Party.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Sets and Dictionaries Advanced\07. SoftUni Party\bin\Debug\netcoreapp2.1\07. SoftUni Party.dll
+C:\Users\malek\source\repos\Sets and Dictionaries Advanced\07. SoftUni Party\bin\Debug\netcoreapp2.1\07. SoftUni Party.pdb
+C:\Users\malek\source\repos\Sets and Dictionaries Advanced\07. SoftUni Party\obj\Debug\netcoreapp2.1\07. SoftUni Party.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Sets and Dictionaries Advanced\07. SoftUni Party\obj\Debug\netcoreapp2.1\07. SoftUni Party.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Sets and Dictionaries Advanced\07. SoftUni Party\obj\Debug\netcoreapp2.1\07. SoftUni Party.AssemblyInfo.cs
+C:\Users\malek\source\repos\Sets and Dictionaries Advanced\07. SoftUni Party\obj\Debug\netcoreapp2.1\07. SoftUni Party.dll
+C:\Users\malek\source\repos\Sets and Dictionaries Advanced\07. SoftUni Party\obj\Debug\netcoreapp2.1\07. SoftUni Party.pdb

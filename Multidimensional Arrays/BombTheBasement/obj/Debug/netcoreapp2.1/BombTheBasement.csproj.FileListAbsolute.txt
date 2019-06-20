@@ -1,0 +1,11 @@
+C:\Users\malek\source\repos\Multidimensional Arrays\BombTheBasement\bin\Debug\netcoreapp2.1\BombTheBasement.deps.json
+C:\Users\malek\source\repos\Multidimensional Arrays\BombTheBasement\bin\Debug\netcoreapp2.1\BombTheBasement.runtimeconfig.json
+C:\Users\malek\source\repos\Multidimensional Arrays\BombTheBasement\bin\Debug\netcoreapp2.1\BombTheBasement.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Multidimensional Arrays\BombTheBasement\bin\Debug\netcoreapp2.1\BombTheBasement.dll
+C:\Users\malek\source\repos\Multidimensional Arrays\BombTheBasement\bin\Debug\netcoreapp2.1\BombTheBasement.pdb
+C:\Users\malek\source\repos\Multidimensional Arrays\BombTheBasement\obj\Debug\netcoreapp2.1\BombTheBasement.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\Multidimensional Arrays\BombTheBasement\obj\Debug\netcoreapp2.1\BombTheBasement.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Multidimensional Arrays\BombTheBasement\obj\Debug\netcoreapp2.1\BombTheBasement.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Multidimensional Arrays\BombTheBasement\obj\Debug\netcoreapp2.1\BombTheBasement.AssemblyInfo.cs
+C:\Users\malek\source\repos\Multidimensional Arrays\BombTheBasement\obj\Debug\netcoreapp2.1\BombTheBasement.dll
+C:\Users\malek\source\repos\Multidimensional Arrays\BombTheBasement\obj\Debug\netcoreapp2.1\BombTheBasement.pdb

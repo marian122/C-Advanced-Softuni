@@ -1,0 +1,11 @@
+C:\Users\malek\source\repos\Iterators and Comparators\Iterators and Comparators\bin\Debug\netcoreapp2.1\Iterators and Comparators.deps.json
+C:\Users\malek\source\repos\Iterators and Comparators\Iterators and Comparators\bin\Debug\netcoreapp2.1\Iterators and Comparators.runtimeconfig.json
+C:\Users\malek\source\repos\Iterators and Comparators\Iterators and Comparators\bin\Debug\netcoreapp2.1\Iterators and Comparators.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Iterators and Comparators\Iterators and Comparators\bin\Debug\netcoreapp2.1\Iterators and Comparators.dll
+C:\Users\malek\source\repos\Iterators and Comparators\Iterators and Comparators\bin\Debug\netcoreapp2.1\Iterators and Comparators.pdb
+C:\Users\malek\source\repos\Iterators and Comparators\Iterators and Comparators\obj\Debug\netcoreapp2.1\Iterators and Comparators.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\Iterators and Comparators\Iterators and Comparators\obj\Debug\netcoreapp2.1\Iterators and Comparators.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Iterators and Comparators\Iterators and Comparators\obj\Debug\netcoreapp2.1\Iterators and Comparators.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Iterators and Comparators\Iterators and Comparators\obj\Debug\netcoreapp2.1\Iterators and Comparators.AssemblyInfo.cs
+C:\Users\malek\source\repos\Iterators and Comparators\Iterators and Comparators\obj\Debug\netcoreapp2.1\Iterators and Comparators.dll
+C:\Users\malek\source\repos\Iterators and Comparators\Iterators and Comparators\obj\Debug\netcoreapp2.1\Iterators and Comparators.pdb

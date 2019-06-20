@@ -1,0 +1,10 @@
+C:\Users\malek\source\repos\Stack and Queries\Hot Potato\bin\Debug\netcoreapp2.1\Hot Potato.deps.json
+C:\Users\malek\source\repos\Stack and Queries\Hot Potato\bin\Debug\netcoreapp2.1\Hot Potato.runtimeconfig.json
+C:\Users\malek\source\repos\Stack and Queries\Hot Potato\bin\Debug\netcoreapp2.1\Hot Potato.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Stack and Queries\Hot Potato\bin\Debug\netcoreapp2.1\Hot Potato.dll
+C:\Users\malek\source\repos\Stack and Queries\Hot Potato\bin\Debug\netcoreapp2.1\Hot Potato.pdb
+C:\Users\malek\source\repos\Stack and Queries\Hot Potato\obj\Debug\netcoreapp2.1\Hot Potato.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Stack and Queries\Hot Potato\obj\Debug\netcoreapp2.1\Hot Potato.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Stack and Queries\Hot Potato\obj\Debug\netcoreapp2.1\Hot Potato.AssemblyInfo.cs
+C:\Users\malek\source\repos\Stack and Queries\Hot Potato\obj\Debug\netcoreapp2.1\Hot Potato.dll
+C:\Users\malek\source\repos\Stack and Queries\Hot Potato\obj\Debug\netcoreapp2.1\Hot Potato.pdb

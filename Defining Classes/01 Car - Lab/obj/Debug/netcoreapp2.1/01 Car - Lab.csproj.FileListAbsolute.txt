@@ -1,0 +1,11 @@
+C:\Users\malek\source\repos\Defining Classes\01 Car - Lab\bin\Debug\netcoreapp2.1\01 Car - Lab.deps.json
+C:\Users\malek\source\repos\Defining Classes\01 Car - Lab\bin\Debug\netcoreapp2.1\01 Car - Lab.runtimeconfig.json
+C:\Users\malek\source\repos\Defining Classes\01 Car - Lab\bin\Debug\netcoreapp2.1\01 Car - Lab.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Defining Classes\01 Car - Lab\bin\Debug\netcoreapp2.1\01 Car - Lab.dll
+C:\Users\malek\source\repos\Defining Classes\01 Car - Lab\bin\Debug\netcoreapp2.1\01 Car - Lab.pdb
+C:\Users\malek\source\repos\Defining Classes\01 Car - Lab\obj\Debug\netcoreapp2.1\01 Car - Lab.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Defining Classes\01 Car - Lab\obj\Debug\netcoreapp2.1\01 Car - Lab.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Defining Classes\01 Car - Lab\obj\Debug\netcoreapp2.1\01 Car - Lab.AssemblyInfo.cs
+C:\Users\malek\source\repos\Defining Classes\01 Car - Lab\obj\Debug\netcoreapp2.1\01 Car - Lab.dll
+C:\Users\malek\source\repos\Defining Classes\01 Car - Lab\obj\Debug\netcoreapp2.1\01 Car - Lab.pdb
+C:\Users\malek\source\repos\Defining Classes\01 Car - Lab\obj\Debug\netcoreapp2.1\01 Car - Lab.csprojAssemblyReference.cache

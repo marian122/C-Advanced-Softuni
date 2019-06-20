@@ -1,0 +1,10 @@
+C:\Users\malek\source\repos\Functional Programming\Problem 7. Predicate for Names\bin\Debug\netcoreapp2.1\Problem 7. Predicate for Names.deps.json
+C:\Users\malek\source\repos\Functional Programming\Problem 7. Predicate for Names\bin\Debug\netcoreapp2.1\Problem 7. Predicate for Names.runtimeconfig.json
+C:\Users\malek\source\repos\Functional Programming\Problem 7. Predicate for Names\bin\Debug\netcoreapp2.1\Problem 7. Predicate for Names.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Functional Programming\Problem 7. Predicate for Names\bin\Debug\netcoreapp2.1\Problem 7. Predicate for Names.dll
+C:\Users\malek\source\repos\Functional Programming\Problem 7. Predicate for Names\bin\Debug\netcoreapp2.1\Problem 7. Predicate for Names.pdb
+C:\Users\malek\source\repos\Functional Programming\Problem 7. Predicate for Names\obj\Debug\netcoreapp2.1\Problem 7. Predicate for Names.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Functional Programming\Problem 7. Predicate for Names\obj\Debug\netcoreapp2.1\Problem 7. Predicate for Names.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Functional Programming\Problem 7. Predicate for Names\obj\Debug\netcoreapp2.1\Problem 7. Predicate for Names.AssemblyInfo.cs
+C:\Users\malek\source\repos\Functional Programming\Problem 7. Predicate for Names\obj\Debug\netcoreapp2.1\Problem 7. Predicate for Names.dll
+C:\Users\malek\source\repos\Functional Programming\Problem 7. Predicate for Names\obj\Debug\netcoreapp2.1\Problem 7. Predicate for Names.pdb

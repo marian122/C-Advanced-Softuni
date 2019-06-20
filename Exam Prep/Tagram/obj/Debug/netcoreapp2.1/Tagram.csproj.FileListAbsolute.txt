@@ -1,0 +1,10 @@
+C:\Users\malek\source\repos\Exam Prep\Tagram\bin\Debug\netcoreapp2.1\Tagram.deps.json
+C:\Users\malek\source\repos\Exam Prep\Tagram\bin\Debug\netcoreapp2.1\Tagram.runtimeconfig.json
+C:\Users\malek\source\repos\Exam Prep\Tagram\bin\Debug\netcoreapp2.1\Tagram.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Exam Prep\Tagram\bin\Debug\netcoreapp2.1\Tagram.dll
+C:\Users\malek\source\repos\Exam Prep\Tagram\bin\Debug\netcoreapp2.1\Tagram.pdb
+C:\Users\malek\source\repos\Exam Prep\Tagram\obj\Debug\netcoreapp2.1\Tagram.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Exam Prep\Tagram\obj\Debug\netcoreapp2.1\Tagram.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Exam Prep\Tagram\obj\Debug\netcoreapp2.1\Tagram.AssemblyInfo.cs
+C:\Users\malek\source\repos\Exam Prep\Tagram\obj\Debug\netcoreapp2.1\Tagram.dll
+C:\Users\malek\source\repos\Exam Prep\Tagram\obj\Debug\netcoreapp2.1\Tagram.pdb

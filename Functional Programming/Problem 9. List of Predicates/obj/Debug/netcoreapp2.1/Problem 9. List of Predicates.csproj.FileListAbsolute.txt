@@ -1,0 +1,10 @@
+C:\Users\malek\source\repos\Functional Programming\Problem 9. List of Predicates\bin\Debug\netcoreapp2.1\Problem 9. List of Predicates.deps.json
+C:\Users\malek\source\repos\Functional Programming\Problem 9. List of Predicates\bin\Debug\netcoreapp2.1\Problem 9. List of Predicates.runtimeconfig.json
+C:\Users\malek\source\repos\Functional Programming\Problem 9. List of Predicates\bin\Debug\netcoreapp2.1\Problem 9. List of Predicates.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Functional Programming\Problem 9. List of Predicates\bin\Debug\netcoreapp2.1\Problem 9. List of Predicates.dll
+C:\Users\malek\source\repos\Functional Programming\Problem 9. List of Predicates\bin\Debug\netcoreapp2.1\Problem 9. List of Predicates.pdb
+C:\Users\malek\source\repos\Functional Programming\Problem 9. List of Predicates\obj\Debug\netcoreapp2.1\Problem 9. List of Predicates.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Functional Programming\Problem 9. List of Predicates\obj\Debug\netcoreapp2.1\Problem 9. List of Predicates.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Functional Programming\Problem 9. List of Predicates\obj\Debug\netcoreapp2.1\Problem 9. List of Predicates.AssemblyInfo.cs
+C:\Users\malek\source\repos\Functional Programming\Problem 9. List of Predicates\obj\Debug\netcoreapp2.1\Problem 9. List of Predicates.dll
+C:\Users\malek\source\repos\Functional Programming\Problem 9. List of Predicates\obj\Debug\netcoreapp2.1\Problem 9. List of Predicates.pdb

@@ -1,0 +1,11 @@
+C:\Users\malek\source\repos\Exam Prep\Bombs\bin\Debug\netcoreapp2.1\Bombs.deps.json
+C:\Users\malek\source\repos\Exam Prep\Bombs\bin\Debug\netcoreapp2.1\Bombs.runtimeconfig.json
+C:\Users\malek\source\repos\Exam Prep\Bombs\bin\Debug\netcoreapp2.1\Bombs.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Exam Prep\Bombs\bin\Debug\netcoreapp2.1\Bombs.dll
+C:\Users\malek\source\repos\Exam Prep\Bombs\bin\Debug\netcoreapp2.1\Bombs.pdb
+C:\Users\malek\source\repos\Exam Prep\Bombs\obj\Debug\netcoreapp2.1\Bombs.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Exam Prep\Bombs\obj\Debug\netcoreapp2.1\Bombs.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Exam Prep\Bombs\obj\Debug\netcoreapp2.1\Bombs.AssemblyInfo.cs
+C:\Users\malek\source\repos\Exam Prep\Bombs\obj\Debug\netcoreapp2.1\Bombs.dll
+C:\Users\malek\source\repos\Exam Prep\Bombs\obj\Debug\netcoreapp2.1\Bombs.pdb
+C:\Users\malek\source\repos\Exam Prep\Bombs\obj\Debug\netcoreapp2.1\Bombs.csprojAssemblyReference.cache

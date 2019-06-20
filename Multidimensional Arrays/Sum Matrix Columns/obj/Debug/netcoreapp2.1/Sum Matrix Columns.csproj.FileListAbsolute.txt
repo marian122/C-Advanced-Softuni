@@ -1,0 +1,10 @@
+C:\Users\malek\source\repos\Multidimensional Arrays\Sum Matrix Columns\bin\Debug\netcoreapp2.1\Sum Matrix Columns.deps.json
+C:\Users\malek\source\repos\Multidimensional Arrays\Sum Matrix Columns\bin\Debug\netcoreapp2.1\Sum Matrix Columns.runtimeconfig.json
+C:\Users\malek\source\repos\Multidimensional Arrays\Sum Matrix Columns\bin\Debug\netcoreapp2.1\Sum Matrix Columns.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Multidimensional Arrays\Sum Matrix Columns\bin\Debug\netcoreapp2.1\Sum Matrix Columns.dll
+C:\Users\malek\source\repos\Multidimensional Arrays\Sum Matrix Columns\bin\Debug\netcoreapp2.1\Sum Matrix Columns.pdb
+C:\Users\malek\source\repos\Multidimensional Arrays\Sum Matrix Columns\obj\Debug\netcoreapp2.1\Sum Matrix Columns.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Multidimensional Arrays\Sum Matrix Columns\obj\Debug\netcoreapp2.1\Sum Matrix Columns.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Multidimensional Arrays\Sum Matrix Columns\obj\Debug\netcoreapp2.1\Sum Matrix Columns.AssemblyInfo.cs
+C:\Users\malek\source\repos\Multidimensional Arrays\Sum Matrix Columns\obj\Debug\netcoreapp2.1\Sum Matrix Columns.dll
+C:\Users\malek\source\repos\Multidimensional Arrays\Sum Matrix Columns\obj\Debug\netcoreapp2.1\Sum Matrix Columns.pdb

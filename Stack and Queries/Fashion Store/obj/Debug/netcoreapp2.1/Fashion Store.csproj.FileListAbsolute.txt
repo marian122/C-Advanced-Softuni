@@ -1,0 +1,10 @@
+C:\Users\malek\source\repos\Stack and Queries\Fashion Store\bin\Debug\netcoreapp2.1\Fashion Store.deps.json
+C:\Users\malek\source\repos\Stack and Queries\Fashion Store\bin\Debug\netcoreapp2.1\Fashion Store.runtimeconfig.json
+C:\Users\malek\source\repos\Stack and Queries\Fashion Store\bin\Debug\netcoreapp2.1\Fashion Store.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Stack and Queries\Fashion Store\bin\Debug\netcoreapp2.1\Fashion Store.dll
+C:\Users\malek\source\repos\Stack and Queries\Fashion Store\bin\Debug\netcoreapp2.1\Fashion Store.pdb
+C:\Users\malek\source\repos\Stack and Queries\Fashion Store\obj\Debug\netcoreapp2.1\Fashion Store.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Stack and Queries\Fashion Store\obj\Debug\netcoreapp2.1\Fashion Store.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Stack and Queries\Fashion Store\obj\Debug\netcoreapp2.1\Fashion Store.AssemblyInfo.cs
+C:\Users\malek\source\repos\Stack and Queries\Fashion Store\obj\Debug\netcoreapp2.1\Fashion Store.dll
+C:\Users\malek\source\repos\Stack and Queries\Fashion Store\obj\Debug\netcoreapp2.1\Fashion Store.pdb

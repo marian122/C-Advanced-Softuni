@@ -1,0 +1,10 @@
+C:\Users\malek\source\repos\Streams, Files and Directories\Directory Traversal\bin\Debug\netcoreapp2.1\Directory Traversal.deps.json
+C:\Users\malek\source\repos\Streams, Files and Directories\Directory Traversal\bin\Debug\netcoreapp2.1\Directory Traversal.runtimeconfig.json
+C:\Users\malek\source\repos\Streams, Files and Directories\Directory Traversal\bin\Debug\netcoreapp2.1\Directory Traversal.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Streams, Files and Directories\Directory Traversal\bin\Debug\netcoreapp2.1\Directory Traversal.dll
+C:\Users\malek\source\repos\Streams, Files and Directories\Directory Traversal\bin\Debug\netcoreapp2.1\Directory Traversal.pdb
+C:\Users\malek\source\repos\Streams, Files and Directories\Directory Traversal\obj\Debug\netcoreapp2.1\Directory Traversal.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Streams, Files and Directories\Directory Traversal\obj\Debug\netcoreapp2.1\Directory Traversal.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Streams, Files and Directories\Directory Traversal\obj\Debug\netcoreapp2.1\Directory Traversal.AssemblyInfo.cs
+C:\Users\malek\source\repos\Streams, Files and Directories\Directory Traversal\obj\Debug\netcoreapp2.1\Directory Traversal.dll
+C:\Users\malek\source\repos\Streams, Files and Directories\Directory Traversal\obj\Debug\netcoreapp2.1\Directory Traversal.pdb

@@ -1,0 +1,10 @@
+C:\Users\malek\source\repos\Multidimensional Arrays\2x2 Matrix Elements\bin\Debug\netcoreapp2.1\2x2 Matrix Elements.deps.json
+C:\Users\malek\source\repos\Multidimensional Arrays\2x2 Matrix Elements\bin\Debug\netcoreapp2.1\2x2 Matrix Elements.runtimeconfig.json
+C:\Users\malek\source\repos\Multidimensional Arrays\2x2 Matrix Elements\bin\Debug\netcoreapp2.1\2x2 Matrix Elements.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Multidimensional Arrays\2x2 Matrix Elements\bin\Debug\netcoreapp2.1\2x2 Matrix Elements.dll
+C:\Users\malek\source\repos\Multidimensional Arrays\2x2 Matrix Elements\bin\Debug\netcoreapp2.1\2x2 Matrix Elements.pdb
+C:\Users\malek\source\repos\Multidimensional Arrays\2x2 Matrix Elements\obj\Debug\netcoreapp2.1\2x2 Matrix Elements.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Multidimensional Arrays\2x2 Matrix Elements\obj\Debug\netcoreapp2.1\2x2 Matrix Elements.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Multidimensional Arrays\2x2 Matrix Elements\obj\Debug\netcoreapp2.1\2x2 Matrix Elements.AssemblyInfo.cs
+C:\Users\malek\source\repos\Multidimensional Arrays\2x2 Matrix Elements\obj\Debug\netcoreapp2.1\2x2 Matrix Elements.dll
+C:\Users\malek\source\repos\Multidimensional Arrays\2x2 Matrix Elements\obj\Debug\netcoreapp2.1\2x2 Matrix Elements.pdb

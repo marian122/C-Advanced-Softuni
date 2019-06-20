@@ -1,0 +1,10 @@
+C:\Users\malek\source\repos\Functional Programming\Filter By Age - Lab\bin\Debug\netcoreapp2.1\Filter By Age - Lab.deps.json
+C:\Users\malek\source\repos\Functional Programming\Filter By Age - Lab\bin\Debug\netcoreapp2.1\Filter By Age - Lab.runtimeconfig.json
+C:\Users\malek\source\repos\Functional Programming\Filter By Age - Lab\bin\Debug\netcoreapp2.1\Filter By Age - Lab.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Functional Programming\Filter By Age - Lab\bin\Debug\netcoreapp2.1\Filter By Age - Lab.dll
+C:\Users\malek\source\repos\Functional Programming\Filter By Age - Lab\bin\Debug\netcoreapp2.1\Filter By Age - Lab.pdb
+C:\Users\malek\source\repos\Functional Programming\Filter By Age - Lab\obj\Debug\netcoreapp2.1\Filter By Age - Lab.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Functional Programming\Filter By Age - Lab\obj\Debug\netcoreapp2.1\Filter By Age - Lab.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Functional Programming\Filter By Age - Lab\obj\Debug\netcoreapp2.1\Filter By Age - Lab.AssemblyInfo.cs
+C:\Users\malek\source\repos\Functional Programming\Filter By Age - Lab\obj\Debug\netcoreapp2.1\Filter By Age - Lab.dll
+C:\Users\malek\source\repos\Functional Programming\Filter By Age - Lab\obj\Debug\netcoreapp2.1\Filter By Age - Lab.pdb

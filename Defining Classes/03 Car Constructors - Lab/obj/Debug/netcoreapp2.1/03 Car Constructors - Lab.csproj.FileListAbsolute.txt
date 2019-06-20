@@ -1,0 +1,11 @@
+C:\Users\malek\source\repos\Defining Classes\03 Car Constructors - Lab\bin\Debug\netcoreapp2.1\03 Car Constructors - Lab.deps.json
+C:\Users\malek\source\repos\Defining Classes\03 Car Constructors - Lab\bin\Debug\netcoreapp2.1\03 Car Constructors - Lab.runtimeconfig.json
+C:\Users\malek\source\repos\Defining Classes\03 Car Constructors - Lab\bin\Debug\netcoreapp2.1\03 Car Constructors - Lab.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Defining Classes\03 Car Constructors - Lab\bin\Debug\netcoreapp2.1\03 Car Constructors - Lab.dll
+C:\Users\malek\source\repos\Defining Classes\03 Car Constructors - Lab\bin\Debug\netcoreapp2.1\03 Car Constructors - Lab.pdb
+C:\Users\malek\source\repos\Defining Classes\03 Car Constructors - Lab\obj\Debug\netcoreapp2.1\03 Car Constructors - Lab.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Defining Classes\03 Car Constructors - Lab\obj\Debug\netcoreapp2.1\03 Car Constructors - Lab.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Defining Classes\03 Car Constructors - Lab\obj\Debug\netcoreapp2.1\03 Car Constructors - Lab.AssemblyInfo.cs
+C:\Users\malek\source\repos\Defining Classes\03 Car Constructors - Lab\obj\Debug\netcoreapp2.1\03 Car Constructors - Lab.dll
+C:\Users\malek\source\repos\Defining Classes\03 Car Constructors - Lab\obj\Debug\netcoreapp2.1\03 Car Constructors - Lab.pdb
+C:\Users\malek\source\repos\Defining Classes\03 Car Constructors - Lab\obj\Debug\netcoreapp2.1\03 Car Constructors - Lab.csprojAssemblyReference.cache

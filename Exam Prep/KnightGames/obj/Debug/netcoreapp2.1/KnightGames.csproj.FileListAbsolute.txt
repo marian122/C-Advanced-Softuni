@@ -1,0 +1,10 @@
+C:\Users\malek\source\repos\Exam Prep\KnightGames\bin\Debug\netcoreapp2.1\KnightGames.deps.json
+C:\Users\malek\source\repos\Exam Prep\KnightGames\bin\Debug\netcoreapp2.1\KnightGames.runtimeconfig.json
+C:\Users\malek\source\repos\Exam Prep\KnightGames\bin\Debug\netcoreapp2.1\KnightGames.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Exam Prep\KnightGames\bin\Debug\netcoreapp2.1\KnightGames.dll
+C:\Users\malek\source\repos\Exam Prep\KnightGames\bin\Debug\netcoreapp2.1\KnightGames.pdb
+C:\Users\malek\source\repos\Exam Prep\KnightGames\obj\Debug\netcoreapp2.1\KnightGames.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Exam Prep\KnightGames\obj\Debug\netcoreapp2.1\KnightGames.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Exam Prep\KnightGames\obj\Debug\netcoreapp2.1\KnightGames.AssemblyInfo.cs
+C:\Users\malek\source\repos\Exam Prep\KnightGames\obj\Debug\netcoreapp2.1\KnightGames.dll
+C:\Users\malek\source\repos\Exam Prep\KnightGames\obj\Debug\netcoreapp2.1\KnightGames.pdb

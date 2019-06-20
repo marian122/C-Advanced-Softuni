@@ -1,0 +1,10 @@
+C:\Users\malek\source\repos\Generics\8.Threeuple\bin\Debug\netcoreapp2.1\8.Threeuple.deps.json
+C:\Users\malek\source\repos\Generics\8.Threeuple\bin\Debug\netcoreapp2.1\8.Threeuple.runtimeconfig.json
+C:\Users\malek\source\repos\Generics\8.Threeuple\bin\Debug\netcoreapp2.1\8.Threeuple.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Generics\8.Threeuple\bin\Debug\netcoreapp2.1\8.Threeuple.dll
+C:\Users\malek\source\repos\Generics\8.Threeuple\bin\Debug\netcoreapp2.1\8.Threeuple.pdb
+C:\Users\malek\source\repos\Generics\8.Threeuple\obj\Debug\netcoreapp2.1\8.Threeuple.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Generics\8.Threeuple\obj\Debug\netcoreapp2.1\8.Threeuple.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Generics\8.Threeuple\obj\Debug\netcoreapp2.1\8.Threeuple.AssemblyInfo.cs
+C:\Users\malek\source\repos\Generics\8.Threeuple\obj\Debug\netcoreapp2.1\8.Threeuple.dll
+C:\Users\malek\source\repos\Generics\8.Threeuple\obj\Debug\netcoreapp2.1\8.Threeuple.pdb

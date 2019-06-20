@@ -1,0 +1,11 @@
+C:\Users\malek\source\repos\Exam Prep\Crossroads\bin\Debug\netcoreapp2.1\Crossroads.deps.json
+C:\Users\malek\source\repos\Exam Prep\Crossroads\bin\Debug\netcoreapp2.1\Crossroads.runtimeconfig.json
+C:\Users\malek\source\repos\Exam Prep\Crossroads\bin\Debug\netcoreapp2.1\Crossroads.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Exam Prep\Crossroads\bin\Debug\netcoreapp2.1\Crossroads.dll
+C:\Users\malek\source\repos\Exam Prep\Crossroads\bin\Debug\netcoreapp2.1\Crossroads.pdb
+C:\Users\malek\source\repos\Exam Prep\Crossroads\obj\Debug\netcoreapp2.1\Crossroads.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\Exam Prep\Crossroads\obj\Debug\netcoreapp2.1\Crossroads.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Exam Prep\Crossroads\obj\Debug\netcoreapp2.1\Crossroads.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Exam Prep\Crossroads\obj\Debug\netcoreapp2.1\Crossroads.AssemblyInfo.cs
+C:\Users\malek\source\repos\Exam Prep\Crossroads\obj\Debug\netcoreapp2.1\Crossroads.dll
+C:\Users\malek\source\repos\Exam Prep\Crossroads\obj\Debug\netcoreapp2.1\Crossroads.pdb

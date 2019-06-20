@@ -1,0 +1,11 @@
+C:\Users\malek\source\repos\Sets and Dictionaries Advanced\Problem 4. Even Times\bin\Debug\netcoreapp2.1\Problem 4. Even Times.deps.json
+C:\Users\malek\source\repos\Sets and Dictionaries Advanced\Problem 4. Even Times\bin\Debug\netcoreapp2.1\Problem 4. Even Times.runtimeconfig.json
+C:\Users\malek\source\repos\Sets and Dictionaries Advanced\Problem 4. Even Times\bin\Debug\netcoreapp2.1\Problem 4. Even Times.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Sets and Dictionaries Advanced\Problem 4. Even Times\bin\Debug\netcoreapp2.1\Problem 4. Even Times.dll
+C:\Users\malek\source\repos\Sets and Dictionaries Advanced\Problem 4. Even Times\bin\Debug\netcoreapp2.1\Problem 4. Even Times.pdb
+C:\Users\malek\source\repos\Sets and Dictionaries Advanced\Problem 4. Even Times\obj\Debug\netcoreapp2.1\Problem 4. Even Times.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\Sets and Dictionaries Advanced\Problem 4. Even Times\obj\Debug\netcoreapp2.1\Problem 4. Even Times.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Sets and Dictionaries Advanced\Problem 4. Even Times\obj\Debug\netcoreapp2.1\Problem 4. Even Times.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Sets and Dictionaries Advanced\Problem 4. Even Times\obj\Debug\netcoreapp2.1\Problem 4. Even Times.AssemblyInfo.cs
+C:\Users\malek\source\repos\Sets and Dictionaries Advanced\Problem 4. Even Times\obj\Debug\netcoreapp2.1\Problem 4. Even Times.dll
+C:\Users\malek\source\repos\Sets and Dictionaries Advanced\Problem 4. Even Times\obj\Debug\netcoreapp2.1\Problem 4. Even Times.pdb

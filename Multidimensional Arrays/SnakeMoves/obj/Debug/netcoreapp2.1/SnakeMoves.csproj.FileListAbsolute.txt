@@ -1,0 +1,10 @@
+C:\Users\malek\source\repos\Multidimensional Arrays\SnakeMoves\bin\Debug\netcoreapp2.1\SnakeMoves.deps.json
+C:\Users\malek\source\repos\Multidimensional Arrays\SnakeMoves\bin\Debug\netcoreapp2.1\SnakeMoves.runtimeconfig.json
+C:\Users\malek\source\repos\Multidimensional Arrays\SnakeMoves\bin\Debug\netcoreapp2.1\SnakeMoves.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Multidimensional Arrays\SnakeMoves\bin\Debug\netcoreapp2.1\SnakeMoves.dll
+C:\Users\malek\source\repos\Multidimensional Arrays\SnakeMoves\bin\Debug\netcoreapp2.1\SnakeMoves.pdb
+C:\Users\malek\source\repos\Multidimensional Arrays\SnakeMoves\obj\Debug\netcoreapp2.1\SnakeMoves.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Multidimensional Arrays\SnakeMoves\obj\Debug\netcoreapp2.1\SnakeMoves.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Multidimensional Arrays\SnakeMoves\obj\Debug\netcoreapp2.1\SnakeMoves.AssemblyInfo.cs
+C:\Users\malek\source\repos\Multidimensional Arrays\SnakeMoves\obj\Debug\netcoreapp2.1\SnakeMoves.dll
+C:\Users\malek\source\repos\Multidimensional Arrays\SnakeMoves\obj\Debug\netcoreapp2.1\SnakeMoves.pdb

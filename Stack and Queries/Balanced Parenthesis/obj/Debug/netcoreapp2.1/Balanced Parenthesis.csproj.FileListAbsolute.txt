@@ -1,0 +1,10 @@
+C:\Users\malek\source\repos\Stack and Queries\Balanced Parenthesis\bin\Debug\netcoreapp2.1\Balanced Parenthesis.deps.json
+C:\Users\malek\source\repos\Stack and Queries\Balanced Parenthesis\bin\Debug\netcoreapp2.1\Balanced Parenthesis.runtimeconfig.json
+C:\Users\malek\source\repos\Stack and Queries\Balanced Parenthesis\bin\Debug\netcoreapp2.1\Balanced Parenthesis.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Stack and Queries\Balanced Parenthesis\bin\Debug\netcoreapp2.1\Balanced Parenthesis.dll
+C:\Users\malek\source\repos\Stack and Queries\Balanced Parenthesis\bin\Debug\netcoreapp2.1\Balanced Parenthesis.pdb
+C:\Users\malek\source\repos\Stack and Queries\Balanced Parenthesis\obj\Debug\netcoreapp2.1\Balanced Parenthesis.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Stack and Queries\Balanced Parenthesis\obj\Debug\netcoreapp2.1\Balanced Parenthesis.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Stack and Queries\Balanced Parenthesis\obj\Debug\netcoreapp2.1\Balanced Parenthesis.AssemblyInfo.cs
+C:\Users\malek\source\repos\Stack and Queries\Balanced Parenthesis\obj\Debug\netcoreapp2.1\Balanced Parenthesis.dll
+C:\Users\malek\source\repos\Stack and Queries\Balanced Parenthesis\obj\Debug\netcoreapp2.1\Balanced Parenthesis.pdb

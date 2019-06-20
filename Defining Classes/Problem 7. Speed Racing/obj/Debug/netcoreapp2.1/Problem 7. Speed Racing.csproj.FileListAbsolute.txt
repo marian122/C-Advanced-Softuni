@@ -1,0 +1,11 @@
+C:\Users\malek\source\repos\Defining Classes\Problem 7. Speed Racing\bin\Debug\netcoreapp2.1\Problem 7. Speed Racing.deps.json
+C:\Users\malek\source\repos\Defining Classes\Problem 7. Speed Racing\bin\Debug\netcoreapp2.1\Problem 7. Speed Racing.runtimeconfig.json
+C:\Users\malek\source\repos\Defining Classes\Problem 7. Speed Racing\bin\Debug\netcoreapp2.1\Problem 7. Speed Racing.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Defining Classes\Problem 7. Speed Racing\bin\Debug\netcoreapp2.1\Problem 7. Speed Racing.dll
+C:\Users\malek\source\repos\Defining Classes\Problem 7. Speed Racing\bin\Debug\netcoreapp2.1\Problem 7. Speed Racing.pdb
+C:\Users\malek\source\repos\Defining Classes\Problem 7. Speed Racing\obj\Debug\netcoreapp2.1\Problem 7. Speed Racing.csprojAssemblyReference.cache
+C:\Users\malek\source\repos\Defining Classes\Problem 7. Speed Racing\obj\Debug\netcoreapp2.1\Problem 7. Speed Racing.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Defining Classes\Problem 7. Speed Racing\obj\Debug\netcoreapp2.1\Problem 7. Speed Racing.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Defining Classes\Problem 7. Speed Racing\obj\Debug\netcoreapp2.1\Problem 7. Speed Racing.AssemblyInfo.cs
+C:\Users\malek\source\repos\Defining Classes\Problem 7. Speed Racing\obj\Debug\netcoreapp2.1\Problem 7. Speed Racing.dll
+C:\Users\malek\source\repos\Defining Classes\Problem 7. Speed Racing\obj\Debug\netcoreapp2.1\Problem 7. Speed Racing.pdb

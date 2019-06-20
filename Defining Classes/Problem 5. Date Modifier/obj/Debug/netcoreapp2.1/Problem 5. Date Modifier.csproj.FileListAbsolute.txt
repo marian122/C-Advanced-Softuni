@@ -1,0 +1,10 @@
+C:\Users\malek\source\repos\Defining Classes\Problem 5. Date Modifier\bin\Debug\netcoreapp2.1\Problem 5. Date Modifier.deps.json
+C:\Users\malek\source\repos\Defining Classes\Problem 5. Date Modifier\bin\Debug\netcoreapp2.1\Problem 5. Date Modifier.runtimeconfig.json
+C:\Users\malek\source\repos\Defining Classes\Problem 5. Date Modifier\bin\Debug\netcoreapp2.1\Problem 5. Date Modifier.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Defining Classes\Problem 5. Date Modifier\bin\Debug\netcoreapp2.1\Problem 5. Date Modifier.dll
+C:\Users\malek\source\repos\Defining Classes\Problem 5. Date Modifier\bin\Debug\netcoreapp2.1\Problem 5. Date Modifier.pdb
+C:\Users\malek\source\repos\Defining Classes\Problem 5. Date Modifier\obj\Debug\netcoreapp2.1\Problem 5. Date Modifier.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Defining Classes\Problem 5. Date Modifier\obj\Debug\netcoreapp2.1\Problem 5. Date Modifier.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Defining Classes\Problem 5. Date Modifier\obj\Debug\netcoreapp2.1\Problem 5. Date Modifier.AssemblyInfo.cs
+C:\Users\malek\source\repos\Defining Classes\Problem 5. Date Modifier\obj\Debug\netcoreapp2.1\Problem 5. Date Modifier.dll
+C:\Users\malek\source\repos\Defining Classes\Problem 5. Date Modifier\obj\Debug\netcoreapp2.1\Problem 5. Date Modifier.pdb

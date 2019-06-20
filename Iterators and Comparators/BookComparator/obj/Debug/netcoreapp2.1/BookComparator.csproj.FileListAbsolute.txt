@@ -1,0 +1,10 @@
+C:\Users\malek\source\repos\Iterators and Comparators\BookComparator\obj\Debug\netcoreapp2.1\BookComparator.csproj.CoreCompileInputs.cache
+C:\Users\malek\source\repos\Iterators and Comparators\BookComparator\obj\Debug\netcoreapp2.1\BookComparator.AssemblyInfoInputs.cache
+C:\Users\malek\source\repos\Iterators and Comparators\BookComparator\obj\Debug\netcoreapp2.1\BookComparator.AssemblyInfo.cs
+C:\Users\malek\source\repos\Iterators and Comparators\BookComparator\bin\Debug\netcoreapp2.1\BookComparator.deps.json
+C:\Users\malek\source\repos\Iterators and Comparators\BookComparator\bin\Debug\netcoreapp2.1\BookComparator.runtimeconfig.json
+C:\Users\malek\source\repos\Iterators and Comparators\BookComparator\bin\Debug\netcoreapp2.1\BookComparator.runtimeconfig.dev.json
+C:\Users\malek\source\repos\Iterators and Comparators\BookComparator\bin\Debug\netcoreapp2.1\BookComparator.dll
+C:\Users\malek\source\repos\Iterators and Comparators\BookComparator\bin\Debug\netcoreapp2.1\BookComparator.pdb
+C:\Users\malek\source\repos\Iterators and Comparators\BookComparator\obj\Debug\netcoreapp2.1\BookComparator.dll
+C:\Users\malek\source\repos\Iterators and Comparators\BookComparator\obj\Debug\netcoreapp2.1\BookComparator.pdb
